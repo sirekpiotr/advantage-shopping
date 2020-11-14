@@ -1,6 +1,6 @@
 <h1>Automated website testing - Advantage Shopping</h1>
 
-<p>The repository contains automatic tests of the e-commerce website.</p>
+<p>This repository contains automatic tests of the e-commerce website.</p>
 
 So far, this project includes tests covering and checking:
  <ol>
